@@ -1,31 +1,74 @@
-# Hi there! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi,+I'm+Soufiane+Bouchtalla+👋;Big+Data+%26+BI+Student;Aspiring+Data+Engineer;Python+%26+AI+Enthusiast" alt="Typing SVG" />
+</div>
 
-My name is Abdelkarim Elqaidi, and I'm a student at ESTK (Ecole Supérieure de Technologie in Kelaa des Sraghna), studying data engineering.
+<div align="center">
+  <h3>🚀 Turning Data into Actionable Insights | Building Robust Pipelines</h3>
+  
+  <a href="LINK_TO_YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
-## About Me
+---
 
-- 📚 I'm currently pursuing a degree in data engineering.
-- 🌐 I'm passionate about technology and its applications in solving real-world problems.
-- 🤖 I enjoy working with data, exploring insights, and building meaningful solutions.
+### 👨‍💻 About Me
 
-## Skills
+I am a **Data Engineering & BI Student** based in Morocco 🇲🇦, bridging the gap between **Software Development** and **Data Science**. 
 
-- 💻Proficient: Python
-- 🛠️ Tools: SQL, Git, Docker
-- 📊 Data: Data Analysis, Data Visualization
-- 📡 Big Data: Hadoop, Spark
+Transitioning from a strong technical foundation (DUT) to advanced Big Data concepts, I specialize in architecting systems that not only collect data but analyze it using **Deep Learning** and **Statistical Models**. My goal is to pursue a **Master’s in Data Engineering/Science** in Italy 🇮🇹 to further specialize in large-scale data infrastructures.
 
-## Connect with Me
+- 🔭 **Currently working on:** Advanced Big Data pipelines (Hadoop Ecosystem) and Real-time Computer Vision.
+- 🌱 **Currently learning:** Data Warehousing, PL/SQL optimization, and Cloud Data Architectures.
+- 💡 **Core Strength:** I don't just write code; I build **end-to-end solutions** (From Hardware Integration to Dashboarding).
 
-- 📧 Email: [elqaidikarim@gmail.com](mailto:elqaidikarim@gmail.com)
-- 🔗 LinkedIn: [Abdelkarim Elqaidi](https://www.linkedin.com/in/abdelkarim-elqaidi-9497352a6/)
+---
 
-## Projects
-...
-## Domain Investing
+### 🛠️ The Arsenal (Tech Stack)
 
-- 🌐 As a domain investor, I actively explore opportunities in the digital real estate market.
-## GitHub Stats
-...
+*My toolkit covers the entire Data Lifecycle: Collection, Storage, Processing, and Visualization.*
 
-Feel free to explore my repositories, and don't hesitate to reach out for any questions or collaboration ideas. Let's build something amazing together! 🚀
+| **Category** | **Technologies** |
+|:---:|:---|
+| **Big Data & DB** | ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black) ![HDFS](https://img.shields.io/badge/HDFS-FFCA28?style=flat-square&logo=apache&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F29111?style=flat-square&logo=oracle&logoColor=white) |
+| **Data Science & AI** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-00A67E?style=flat-square) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white) |
+| **Dev & Visualization** | ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![ReportLab](https://img.shields.io/badge/ReportLab-FF5722?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+---
+
+### 🏆 Featured Projects (The Vitrine)
+
+> *Detailed logic and implementation details available in the respective repositories.*
+
+#### 1. [👁️ SmartCampus: AI Attendance System](LINK_TO_YOUR_SMARTCAMPUS_REPO)
+*Academic Research Project (PFE)*
+* **Tech:** Python, Deep Learning (Face Rec), PyQt6, MySQL.
+* **Impact:** Eliminated proxy attendance using **Dual-Biometrics** (Face + Fingerprint) and provided administrative **Data Analytics dashboards** for student performance tracking.
+
+#### 2. [⚡ ELECTOTIME: Industrial Automation](LINK_TO_YOUR_ELECTOTIME_REPO)
+*Technical Internship @ ELECTOMAR SARL*
+* **Tech:** Python, ZKLib (Hardware), Pandas, ReportLab.
+* **Impact:** Automated workforce management by integrating **biometric hardware** directly with a custom desktop app, generating **automatic payroll reports** and statistical KPIs.
+
+---
+
+### 📈 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+</div>
+
+---
+
+### ⚡ Fun Fact
+When I'm not optimizing SQL queries or training AI models, you can find me analyzing **German Engineering** (huge VW/Audi fan 🏎️) or exploring the mechanics behind high-performance engines.
+
+---
+<div align="center">
+  <i>Let's connect and build the future of Data together!</i>
+</div>
