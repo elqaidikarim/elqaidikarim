@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi,+I'm+Soufiane+Bouchtalla+👋;Big+Data+%26+BI+Student;Aspiring+Data+Engineer;Python+%26+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi,+I'm+Abdelkarim+ELQAIDI+👋;Big+Data+%26+BI+Student;Aspiring+Data+Engineer;Python+%26+AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>🚀 Turning Data into Actionable Insights | Building Robust Pipelines</h3>
+  <h3>🚀 Architecting Data Pipelines | Building AI-Driven Solutions</h3>
   
   <a href="LINK_TO_YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,13 +17,13 @@
 
 ### 👨‍💻 About Me
 
-I am a **Data Engineering & BI Student** based in Morocco 🇲🇦, bridging the gap between **Software Development** and **Data Science**. 
+I am a **Data Engineering & BI Student** based in Morocco 🇲🇦, bridging the gap between **Software Engineering** and **Advanced Analytics**. 
 
-Transitioning from a strong technical foundation (DUT) to advanced Big Data concepts, I specialize in architecting systems that not only collect data but analyze it using **Deep Learning** and **Statistical Models**. My goal is to pursue a **Master’s in Data Engineering/Science** in Italy 🇮🇹 to further specialize in large-scale data infrastructures.
+With a strong technical foundation (DUT in Data Engineering), I specialize in building end-to-end systems that not only collect data but transform it into actionable insights using **Deep Learning** and **Statistical Models**. My ambition is to pursue a **Master’s in Data Engineering/Science** in Italy 🇮🇹 to specialize in large-scale data infrastructures.
 
-- 🔭 **Currently working on:** Advanced Big Data pipelines (Hadoop Ecosystem) and Real-time Computer Vision.
-- 🌱 **Currently learning:** Data Warehousing, PL/SQL optimization, and Cloud Data Architectures.
-- 💡 **Core Strength:** I don't just write code; I build **end-to-end solutions** (From Hardware Integration to Dashboarding).
+- 🔭 **Currently working on:** Big Data ecosystems (Hadoop/HDFS) and Real-time Computer Vision systems.
+- 🌱 **Currently learning:** PL/SQL optimization, Data Warehousing, and Cloud Architectures.
+- 💡 **Core Strength:** I turn complex problems into automated solutions (From Hardware Integration to BI Dashboards).
 
 ---
 
@@ -42,33 +42,33 @@ Transitioning from a strong technical foundation (DUT) to advanced Big Data conc
 
 ### 🏆 Featured Projects (The Vitrine)
 
-> *Detailed logic and implementation details available in the respective repositories.*
+> *These projects demonstrate my ability to handle full-stack data engineering tasks.*
 
 #### 1. [👁️ SmartCampus: AI Attendance System](LINK_TO_YOUR_SMARTCAMPUS_REPO)
 *Academic Research Project (PFE)*
-* **Tech:** Python, Deep Learning (Face Rec), PyQt6, MySQL.
-* **Impact:** Eliminated proxy attendance using **Dual-Biometrics** (Face + Fingerprint) and provided administrative **Data Analytics dashboards** for student performance tracking.
+* **Tech:** Python, Deep Learning (Face Rec), MediaPipe, MySQL.
+* **Impact:** Developed a **Dual-Biometric System** (Face + Fingerprint) to eliminate proxy attendance. Integrated a **predictive analytics module** to identify at-risk students based on attendance patterns.
 
 #### 2. [⚡ ELECTOTIME: Industrial Automation](LINK_TO_YOUR_ELECTOTIME_REPO)
 *Technical Internship @ ELECTOMAR SARL*
-* **Tech:** Python, ZKLib (Hardware), Pandas, ReportLab.
-* **Impact:** Automated workforce management by integrating **biometric hardware** directly with a custom desktop app, generating **automatic payroll reports** and statistical KPIs.
+* **Tech:** Python, ZKLib (Hardware Integration), Pandas, ReportLab.
+* **Impact:** Automated the workforce management process by connecting directly to biometric hardware. The system generates **automatic payroll reports** and visualizes workforce KPIs in real-time.
 
 ---
 
 ### 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
 </div>
 
 ---
 
 ### ⚡ Fun Fact
-When I'm not optimizing SQL queries or training AI models, you can find me analyzing **German Engineering** (huge VW/Audi fan 🏎️) or exploring the mechanics behind high-performance engines.
+When I'm not optimizing SQL queries or training AI models, you can find me analyzing **German Engineering** mechanics (Huge VW/Audi fan 🏎️) or exploring how high-performance engines handle data efficiency.
 
 ---
 <div align="center">
-  <i>Let's connect and build the future of Data together!</i>
+  <i>"Data is the new oil, but I build the engine."</i>
 </div>
