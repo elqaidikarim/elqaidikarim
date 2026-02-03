@@ -98,19 +98,16 @@ I am currently **preparing for my Master's Degree** in Data Engineering. My tech
 
 ---
 
-### 📊 **My Coding Journey**
+### 💼 **My Engineering Philosophy**
 
-<div align="center">
+> *"Code is temporary, Data is forever. I build systems that respect the integrity of data."*
 
-<a href="https://github.com/ryo-ma/github-profile-trophies"> <img src="https://github-profile-trophies.vercel.app/?username=elqaidikarim&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Karim's Trophies" /> </a>
+Here is what defines my work ethic and technical approach:
 
+* **🛡️ Data Quality First:** I believe in the "Garbage In, Garbage Out" principle. I spend extra time validating input pipelines to ensure downstream analytics are accurate.
+* **⚡ Optimization Obsessed:** Whether it's an SQL query or a Python loop, I constantly refactor code to reduce latency and memory usage.
+* **🤖 Automate Everything:** If a task needs to be done more than twice, I write a script for it. I build self-sustaining workflows to minimize manual intervention.
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=elqaidikarim&theme=radical&hide_border=true&background=0D1117" alt="Karim's Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elqaidikarim&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
-</div>
 ---
 
 ### 🏎️ **Fun Fact**
