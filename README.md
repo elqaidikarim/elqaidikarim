@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi,+I'm+Abdelkarim+ELQAIDI+👋;Big+Data+%26+BI+Student;Aspiring+Data+Engineer;Python+%26+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi,+I'm+Abdelkarim+ELQAIDI+👋;Big+Data+%26+BI+Student;Aspiring+Data+Engineer;Python,+Oracle+%26+AI+Expert" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>🚀 Architecting Data Pipelines | Building AI-Driven Solutions</h3>
+  <h3>🚀 Architecting Data Pipelines | Building Full-Stack AI Solutions</h3>
   
   <a href="LINK_TO_YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,9 +17,9 @@
 
 ### 👨‍💻 About Me
 
-I am a **Data Engineering & BI Student** based in Morocco 🇲🇦, bridging the gap between **Software Engineering** and **Advanced Analytics**. 
+I am a **Data Engineering & BI Student** based in Morocco 🇲🇦, bridging the gap between **Full-Stack Development** and **Advanced Analytics**. 
 
-With a strong technical foundation (DUT in Data Engineering), I specialize in building end-to-end systems that not only collect data but transform it into actionable insights using **Deep Learning** and **Statistical Models**. My ambition is to pursue a **Master’s in Data Engineering/Science** in Italy 🇮🇹 to specialize in large-scale data infrastructures.
+With a strong technical foundation (DUT in Data Engineering), I specialize in building end-to-end systems—from robust **Oracle Databases** to interactive web dashboards. My ambition is to pursue a **Master’s in Data Engineering/Science** in Italy 🇮🇹 to specialize in large-scale data infrastructures.
 
 - 🔭 **Currently working on:** Big Data ecosystems (Hadoop/HDFS) and Real-time Computer Vision systems.
 - 🌱 **Currently learning:** PL/SQL optimization, Data Warehousing, and Cloud Architectures.
@@ -33,10 +33,10 @@ With a strong technical foundation (DUT in Data Engineering), I specialize in bu
 
 | **Category** | **Technologies** |
 |:---:|:---|
-| **Big Data & DB** | ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black) ![HDFS](https://img.shields.io/badge/HDFS-FFCA28?style=flat-square&logo=apache&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F29111?style=flat-square&logo=oracle&logoColor=white) |
+| **Big Data & Database** | ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black) ![HDFS](https://img.shields.io/badge/HDFS-FFCA28?style=flat-square&logo=apache&logoColor=black) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F29111?style=flat-square&logo=oracle&logoColor=white) |
 | **Data Science & AI** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-00A67E?style=flat-square) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white) |
-| **Dev & Visualization** | ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![ReportLab](https://img.shields.io/badge/ReportLab-FF5722?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) |
+| **Dev & Tools** | ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![ReportLab](https://img.shields.io/badge/ReportLab-FF5722?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
@@ -66,7 +66,7 @@ With a strong technical foundation (DUT in Data Engineering), I specialize in bu
 ---
 
 ### ⚡ Fun Fact
-When I'm not optimizing SQL queries or training AI models, you can find me analyzing **German Engineering** mechanics (Huge VW/Audi fan 🏎️) or exploring how high-performance engines handle data efficiency.
+When I'm not optimizing **Oracle** queries or training AI models, you can find me analyzing **German Engineering** mechanics (Huge VW/Audi fan 🏎️) or exploring how high-performance engines handle data efficiency.
 
 ---
 <div align="center">
