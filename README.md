@@ -101,11 +101,12 @@ I am currently **preparing for my Master's Degree** in Data Engineering. My tech
 ### 📊 **My Coding Journey**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elqaidikarim&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" alt="Karim's Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elqaidikarim&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
 
+[![Karim's Stats](https://github-readme-stats.vercel.app/api?username=elqaidikarim&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elqaidikarim&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 ---
 
 ### 🏎️ **Fun Fact**
