@@ -102,9 +102,13 @@ I am currently **preparing for my Master's Degree** in Data Engineering. My tech
 
 <div align="center">
 
-[![Karim's Stats](https://github-readme-stats.vercel.app/api?username=elqaidikarim&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/ryo-ma/github-profile-trophies"> <img src="https://github-profile-trophies.vercel.app/?username=elqaidikarim&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Karim's Trophies" /> </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elqaidikarim&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=elqaidikarim&theme=radical&hide_border=true&background=0D1117" alt="Karim's Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elqaidikarim&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
 </div>
 ---
