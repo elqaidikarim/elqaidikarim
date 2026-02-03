@@ -35,13 +35,17 @@ I am currently **preparing for my Master's Degree** in Data Engineering. My tech
 
 ---
 
-### 🛠️ **My Learning Toolkit**
+### 🛠️ **Technical Arsenal (Full Stack)**
 
 <div align="center">
 
-| **Data Processing & Storage** | **Development & Scripting** | **Tools & Environment** |
-| :---: | :---: | :---: |
-| ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) <br> ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br> ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white) <br> ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+| **📡 Big Data & Databases** | **🧠 AI & Data Science** |
+| :--- | :--- |
+| ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black) ![HDFS](https://img.shields.io/badge/HDFS-FFCA28?style=flat-square&logo=apache&logoColor=black) <br> ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F29111?style=flat-square&logo=oracle&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) <br> ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) <br> ![MediaPipe](https://img.shields.io/badge/MediaPipe-00A67E?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
+
+| **💻 Programming Languages** | **⚙️ Tools & DevOps** |
+| :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) <br> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) <br> ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) <br> ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white) ![ReportLab](https://img.shields.io/badge/ReportLab-FF5722?style=flat-square) |
 
 </div>
 
@@ -52,7 +56,7 @@ I am currently **preparing for my Master's Degree** in Data Engineering. My tech
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">👁️ <a href="https://github.com/elqaidikarim/SmartCampus-AI-System">SmartCampus AI</a></h3>
+      <h3 align="center"> <a href="https://github.com/elqaidikarim/SmartCampus-AI-System">SmartCampus AI</a></h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Type-PFE%20(Graduation%20Project)-blueviolet?style=flat-square">
         <br><br>
@@ -70,7 +74,7 @@ I am currently **preparing for my Master's Degree** in Data Engineering. My tech
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ <a href="https://github.com/elqaidikarim/ELECTOTIME-Industrial-Manager">ELECTOTIME</a></h3>
+      <h3 align="center"><a href="https://github.com/elqaidikarim/ELECTOTIME-Industrial-Manager">ELECTOTIME</a></h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Type-Internship%20Project-orange?style=flat-square">
         <br><br>
