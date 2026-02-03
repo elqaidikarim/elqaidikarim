@@ -107,7 +107,7 @@ Here is what defines my work ethic and technical approach:
 * **🛡️ Data Quality First:** I believe in the "Garbage In, Garbage Out" principle. I spend extra time validating input pipelines to ensure downstream analytics are accurate.
 * **⚡ Optimization Obsessed:** Whether it's an SQL query or a Python loop, I constantly refactor code to reduce latency and memory usage.
 * **🤖 Automate Everything:** If a task needs to be done more than twice, I write a script for it. I build self-sustaining workflows to minimize manual intervention.
-
+* **🤖 AI-Augmented Workflow:** I leverage AI tools (LLMs) to accelerate learning and debugging, but I strictly adhere to the rule: *"Never commit code you don't fully understand."*
 ---
 
 ### 🏎️ **Fun Fact**
